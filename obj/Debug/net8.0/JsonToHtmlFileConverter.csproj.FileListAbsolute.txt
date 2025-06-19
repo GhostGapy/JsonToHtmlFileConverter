@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\JsonToHtmlFileConverter\JsonToHtmlFileConverter\bin\Debug\net8.0\JsonToHtmlFileConverter.exe
+C:\Users\Admin\source\repos\JsonToHtmlFileConverter\JsonToHtmlFileConverter\bin\Debug\net8.0\JsonToHtmlFileConverter.deps.json
+C:\Users\Admin\source\repos\JsonToHtmlFileConverter\JsonToHtmlFileConverter\bin\Debug\net8.0\JsonToHtmlFileConverter.runtimeconfig.json
+C:\Users\Admin\source\repos\JsonToHtmlFileConverter\JsonToHtmlFileConverter\bin\Debug\net8.0\JsonToHtmlFileConverter.dll
+C:\Users\Admin\source\repos\JsonToHtmlFileConverter\JsonToHtmlFileConverter\bin\Debug\net8.0\JsonToHtmlFileConverter.pdb
+C:\Users\Admin\source\repos\JsonToHtmlFileConverter\JsonToHtmlFileConverter\obj\Debug\net8.0\JsonToHtmlFileConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\JsonToHtmlFileConverter\JsonToHtmlFileConverter\obj\Debug\net8.0\JsonToHtmlFileConverter.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\JsonToHtmlFileConverter\JsonToHtmlFileConverter\obj\Debug\net8.0\JsonToHtmlFileConverter.AssemblyInfo.cs
+C:\Users\Admin\source\repos\JsonToHtmlFileConverter\JsonToHtmlFileConverter\obj\Debug\net8.0\JsonToHtmlFileConverter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\JsonToHtmlFileConverter\JsonToHtmlFileConverter\obj\Debug\net8.0\JsonToHtmlFileConverter.dll
+C:\Users\Admin\source\repos\JsonToHtmlFileConverter\JsonToHtmlFileConverter\obj\Debug\net8.0\refint\JsonToHtmlFileConverter.dll
+C:\Users\Admin\source\repos\JsonToHtmlFileConverter\JsonToHtmlFileConverter\obj\Debug\net8.0\JsonToHtmlFileConverter.pdb
+C:\Users\Admin\source\repos\JsonToHtmlFileConverter\JsonToHtmlFileConverter\obj\Debug\net8.0\JsonToHtmlFileConverter.genruntimeconfig.cache
+C:\Users\Admin\source\repos\JsonToHtmlFileConverter\JsonToHtmlFileConverter\obj\Debug\net8.0\ref\JsonToHtmlFileConverter.dll
+C:\Users\Admin\source\repos\JsonToHtmlFileConverter\JsonToHtmlFileConverter\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\JsonToHtmlFileConverter\JsonToHtmlFileConverter\obj\Debug\net8.0\JsonToHtmlFileConverter.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\JsonToHtmlFileConverter\JsonToHtmlFileConverter\obj\Debug\net8.0\JsonToHt.F0881B89.Up2Date
